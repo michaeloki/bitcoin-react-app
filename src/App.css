@@ -1,5 +1,26 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  color: #ffffff;
+  margin-top: 10vh;
+  height: 80vh;
+}
+
+.form {
+  padding: 1em;
+}
+
+label {
+  display: flex;
+  font-weight: 600;
+}
+
+button {
+  justify-content: flex-end;
+}
+
+.white-text {
+  color:#FFFFFF;
 }
 
 .App-logo {
